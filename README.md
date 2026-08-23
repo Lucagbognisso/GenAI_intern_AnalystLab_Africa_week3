@@ -4,7 +4,7 @@
 
 The name LBF stands for "Leave Better Found" - a personal value meaning to leave people better than you found them. The assistant follows this idea by helping students understand a topic more deeply than before they asked.
 
-![System architecture](./Assistant architecture.png)
+![System architecture](./Assistant%architecture.png)
 
 ## Overview
 
